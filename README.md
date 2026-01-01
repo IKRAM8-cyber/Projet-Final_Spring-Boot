@@ -63,11 +63,13 @@ _-Frontend_
 * OpenAI API
 * 
 * RAG (Retrieval Augmented Generation)
+* Telegram Bot API
 
-Telegram Bot API
 **ARCHITECTURE DU PROJET :**
-Frontend (screenshots/screen-frontend.png)
-Backend (screenshots/Screen-Bckend.png)
+
+* Frontend (screenshots/screen-frontend.png)
+* Backend (screenshots/Screen-Bckend.png)
+
 **Fonctionnalités Implémentées**
 
  **Backend :**
